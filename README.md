@@ -1,5 +1,6 @@
 ###Annyeonghaseyo yeorobun 👋
-
+je ireumeun bina imnida~~~~
+jeoneun daehagsaeng multi data Palembang imnida
 <!--
 **syalara/syalara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
