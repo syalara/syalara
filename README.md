@@ -34,5 +34,4 @@
 [![website](./img/instagram-dark.svg)](https://https://www.instagram.com/_.sylr/#gh-dark-mode-only)
 
 
-
 [webdev]: https://github.com/syalara/syalara/
