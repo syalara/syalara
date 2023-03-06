@@ -36,7 +36,7 @@
 ---
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://www.instagram.com/)
+[![website]([Uploading Instagram_logo_2022.svg.webp…])(https://www.instagram.com/)
 [![website](./img/instagram-dark.svg)](https://https://www.instagram.com/_.sylr/#gh-dark-mode-only)
 
 
