@@ -11,8 +11,8 @@
 ## Education:
 
 #### 1. Alfurqon Integrated Islamic Elementary School
-#### 2. Public Middle School 10 Palembang city (http://smpn10palembang.sch.id/)
-#### 3. Public Senior High School 3 Palembang city (https://www.sman3-palembang.sch.id/) | Social Science Major
+#### 2. [Public Middle School 10 Palembang city](http://smpn10palembang.sch.id/)
+#### 3.[ Public Senior High School 3 Palembang city](https://www.sman3-palembang.sch.id/) | Social Science Major
 #### 4. [Universtas Multi Data Palembang](https://mdp.ac.id/)| bachelor of Information System 
 
 ## Experience:
@@ -36,8 +36,9 @@
 ---
 ### Connect with me:
 
-[![website]([Uploading Instagram_logo_2022.svg.webp…])(https://www.instagram.com/)
-[![website](./img/instagram-dark.svg)](https://https://www.instagram.com/_.sylr/#gh-dark-mode-only)
+- [ Instagram ](https://www.instagram.com/_.sylr/)
+- [ Twitter ](https://www.twitter.com/sukasukasaia01/)
+
 
 
 [webdev]: https://github.com/syalara/syalara/
