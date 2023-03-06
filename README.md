@@ -1,18 +1,27 @@
 ### My Self 👋
 # Hi, i'm [Syabina N Amirah](https://https:WWW.instagram.com/_.sylr/)
 
-##About me:
+## About me:
 
 - 🔭 I’m currently learning at[Universitas Multi Data Palembang](https://mdp.ac.id/)
 - 🌱 I’m currently learning phyton, html, and javascript.
 - 👯 I’m looking to collaborate as Data Analyst
 - 📫 How to reach me: sylr.2002@mhs.mdp.ac.id
 
-##Education:
+## Education:
 
-#### 1. [Universtas Multi Data Palembang](https://mdp.ac.id/)| bachelor of Information System | Palembang '2021-now'
+#### 1. Alfurqon Integrated Islamic Elementary School
+#### 2. Public Middle School 10 Palembang city (http://smpn10palembang.sch.id/)
+#### 3. Public Senior High School 3 Palembang city (https://www.sman3-palembang.sch.id/) | Social Science Major
+#### 4. [Universtas Multi Data Palembang](https://mdp.ac.id/)| bachelor of Information System 
 
-#### 2.[SMA Negeri 3 Palembang](https://www.sman3-palembang.sch.id/)| Jurusan IPS | Palembang '2017-2020'
+## Experience:
+
+#### 1. Certified Hypnotherapist(CHt.)
+#### 2. Join the Korean language community
+
+## Fun Fact:
+내가 케이포프 남자 좋아해
 
 ### Languages and Tools:
 
@@ -27,11 +36,10 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@MDPTVindonesia#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@MDPTVindonesia#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/_.sylr/#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/)
 [![website](./img/instagram-dark.svg)](https://https://www.instagram.com/_.sylr/#gh-dark-mode-only)
 
 
 [webdev]: https://github.com/syalara/syalara/
+
+
